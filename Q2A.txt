@@ -1,0 +1,16 @@
+interações = 3706
+erro = 0.002
+Neuronios na camada de saida = 1   
+Neuronios na camada oculta = 2
+
+ Wo  =
+
+    6.5240677    2.6345063
+    4.25547      6.080504
+    4.2459809    6.0495891
+
+ Ws  =
+
+    3.893014  - 9.1188778    8.479783 
+
+                

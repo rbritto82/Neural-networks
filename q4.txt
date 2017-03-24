@@ -1,0 +1,4 @@
+interação = 6999
+erro = 0.01
+neuronios O = 40
+neuronios s = 5
